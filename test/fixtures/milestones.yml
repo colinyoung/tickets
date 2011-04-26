@@ -1,0 +1,23 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  created_by: MyString
+  description: MyText
+  due_date: 2011-04-26
+  is_completed: false
+  release_level: 1
+  release_notes: MyText
+  space_id: MyString
+  title: MyString
+  updated_by: MyString
+
+two:
+  created_by: MyString
+  description: MyText
+  due_date: 2011-04-26
+  is_completed: false
+  release_level: 1
+  release_notes: MyText
+  space_id: MyString
+  title: MyString
+  updated_by: MyString

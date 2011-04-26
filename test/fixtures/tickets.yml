@@ -1,0 +1,27 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  assigned_to_id: MyString
+  component_id: 1
+  from_support: false
+  importance: 1
+  notification_list: 1
+  number: 1
+  priority: 1
+  reporter_id: MyString
+  space_id: MyString
+  status: 1
+  summary: MyText
+
+two:
+  assigned_to_id: MyString
+  component_id: 1
+  from_support: false
+  importance: 1
+  notification_list: 1
+  number: 1
+  priority: 1
+  reporter_id: MyString
+  space_id: MyString
+  status: 1
+  summary: MyText
