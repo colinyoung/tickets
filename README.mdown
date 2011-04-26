@@ -1,0 +1,18 @@
+Tickets -- a lightweight Assembla tickets viewer
+==========
+
+by colin young, more updates and docs to come soon
+
+CHANGELOG:
+---------
+
+* Committed
+
+TODO:
+-----
+
+* Everything ;)
+* Login to assembla
+* Parse tickets
+* sync local/remote
+
